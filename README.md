@@ -1,2 +1,2 @@
-# sui
+# seeleui
 Vue components for seele
